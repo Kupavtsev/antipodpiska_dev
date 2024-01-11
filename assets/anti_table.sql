@@ -1,0 +1,1 @@
+create table anti (send_date date, email VARCHAR(255), sender VARCHAR(255), subscription INT, recipient VARCHAR(255));
